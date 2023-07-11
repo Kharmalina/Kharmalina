@@ -1,5 +1,6 @@
 <h1 align="center">Heya 👋, I'm Kharmalina</h1>
-<h3 align="center">A Software Developer based in New York City! I am a lifelong learner who builds software applications throughout the entire Software Development Life Cycle. I love to code, create and bring visions come to life!</h3>
+<h3 align="center">A Software Developer based in New York City!!</h3>
+<p>I am a lifelong learner who builds software applications throughout the entire Software Development Life Cycle. I love to code, create and bring visions come to life</p>
 
 - 📫 How to reach me **kharmalinat7@gmail.com**
 
