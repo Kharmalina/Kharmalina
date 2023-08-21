@@ -2,7 +2,7 @@
 <h3 align="center">A Software Developer based in New York City!!</h3>
 <p>I am a lifelong learner who builds software applications throughout the entire Software Development Life Cycle. I love to code, create and bring visions come to life</p>
 
-<p>I am also a believer in interdisciplinary greatness - on top of my foundation in software engineering, I am exploring the world of <b>data analysis</b>. Honing in on my analytical skills makes me a better professional critical thinker</p>
+<p>I am also a believer in interdisciplinary greatness - on top of my foundation in software engineering, I am exploring the world of <b>data analysis</b>. Honing in on my analytical skills makes me a better professional and critical thinker</p>
 
 - 📫 How to reach me **kharmalinat7@gmail.com**
 
